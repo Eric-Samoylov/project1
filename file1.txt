@@ -2,5 +2,9 @@ hi hello buh bye
 oh me oh my
 This is my third change from another user
 oh my goodness gracious
+<<<<<<< HEAD
 
 hi im the evil second user
+=======
+b1 is working
+>>>>>>> b1
